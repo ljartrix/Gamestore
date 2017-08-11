@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "AgregarCarrito";
+}
+
+<h2>Mi Carrito</h2>
+
+
+<table  style="width:100%;text-align:justify">
+    <thead>
+        <tr>
+            
+            <th class="col-md-offset-1">Nombre </th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{ 
+            double total = 0;
+        }
+        @if (Session["Carrito"] != null) {
+
+            
+
+            foreach(var Item in Session["Carrito"] as List<GameStore2.Models.CarritoItems>)
+            {
+                total+=(double)(Item.Cantidad*Item.Producto.Precio);
+                <tr>
+                    <td>@Item.Producto.Nombre</td>
+                    <td>@String.Format("{0:C}",Item.Producto.Precio)</td>
+                    <td>@Item.Cantidad</td>
+                    <td>@String.Format("{0:C}",(Item.Cantidad*Item.Producto.Precio))</td>
+                    <td>@Html.ActionLink("Eliminar","Delete","Carrito",new { id=Item.Producto.Id},null )</td>
+                </tr>
+            }
+        }
+    </tbody>
+
+    <tfoot>
+        <tr>
+            <th class="col-md-offset-3" colspan="">Total</th>
+            <th><h3>  @String.Format("{0:C}", total)</h3></th>
+        </tr>
+    </tfoot>
+</table>
+<br /><br />
+<div class="row">
+<div class="col-md-3">
+    <a class="btn btn-success" href="@Url.Action("Index","Producto",null, null )"> Seguir Comprando</a>
+</div>
+    <div class="col-md-3">
+    <a class="btn btn-primary" href="@Url.Action("ConfirmarCompra","Carrito",null, null )">Confirmar Compra</a>
+    </div>
+</div>
+
+

@@ -1,0 +1,96 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+*{
+    box-sizing: border-box
+}
+
+
+.row {
+
+    margin-right:-15px;
+    margin-left:15px;
+}
+/*html{display:block}*/
+
+
+/*Carrusel */
+
+
+/*Estilos Productos*/
+
+
+.producto{
+    margin: 0;
+}
+
+
+.juego{
+    
+    height: 320px;
+    width: 200px;
+    border: 2px solid black;
+    margin-bottom: 30px;
+    
+}
+
+.portada{
+    width: 100%;
+    background-size:40%;
+}   
+
+.cover{
+    width:196px !important;
+}
+
+.info  {
+    background-color: black;
+    height: 50px;
+    width: 196px;
+    position: relative;
+    bottom: 100px;
+    color: white;
+    z-index: 100;
+}
+
+.consola{
+    padding: .5em;
+}
+
+.carrito{
+ width: 80px;
+ height: 20px; 
+ padding-left: .3em;
+}
+
+.BotonesCarrito{
+text-align:center;
+background-color:springgreen;
+border-radius:4px;
+padding:20px;
+margin-left:1000px;
+margin-right:100px;
+}
+

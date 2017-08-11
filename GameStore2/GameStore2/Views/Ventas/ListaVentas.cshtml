@@ -1,0 +1,95 @@
+﻿@model IEnumerable<GameStore2.Models.ListaVenta>
+
+@{
+    ViewBag.Title = "ListaVentas";
+    double subtotal = 0;
+}
+
+<h2>Lista De Articulos </h2>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Producto.Nombre)
+
+        </th>
+        <th>
+            <b>Precio</b>
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Cantidad)
+
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Total)
+        </th>
+
+    </tr>
+
+
+
+    @foreach (var item in Model)
+    {
+        var precio = (item.Total / item.Cantidad);
+        subtotal += (double)item.Total;
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Producto.Nombre)
+
+            </td>
+            <td>
+                @precio
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cantidad)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total)
+            </td>
+        </tr>
+
+        ViewBag.subtotal = Math.Round(subtotal,2);
+
+    }
+</table>
+
+                 
+    @{
+    var itbis = Math.Round((ViewBag.subtotal * 0.18),2);
+    var total = Math.Round((ViewBag.subtotal + itbis),2);
+    }
+
+<div class="row">
+    <div class="col-md-4">
+        <h3>Subtotal</h3>
+        <b>$ @ViewBag.subtotal</b>
+    </div>
+
+
+    <div class="col-md-4">
+    <h3>ITBIS</h3>
+    <b>$ @itbis</b>
+    </div>
+
+
+    <div class="col-md-4">         
+    <h3>Total</h3>
+    <b>$ @total</b>
+    </div>
+</div>
+
+
+
+<br /><br /> <br />
+<input type="button" value="Imprimir Factura" onclick="window.print()">
+
+<script>
+    function consola() {
+    console.log("" + @ViewBag.lista + "");
+    }
+
+    consola();
+
+</script>

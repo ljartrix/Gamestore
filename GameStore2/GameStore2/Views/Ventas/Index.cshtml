@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    double subtotal = 0;
+
+}
+
+@model IEnumerable<GameStore2.Models.Venta>
+<h2> Ventas</h2>
+
+<table class="table">
+    <tr>
+       
+        <th>Fecha</th>
+        <th>Lista de Articulos </th>
+        <th>SubTotal</th>
+        <th>ITBIS</th>
+        <th>Total </th>
+    </tr>
+
+    <tbody>
+        @foreach (var Item in Model)
+        {
+            subtotal += (double)Item.Total;
+
+            <tr>
+               
+                <td class="success">@Item.DiaVenta</td>
+                <td class="success">@Html.ActionLink("Ver Factura", "ListaVentas", new { Id = Item.Id }, null)</td>
+                <td class="success">@String.Format("{0:C}", Item.Subtotal)</td>
+                <td class="success">@String.Format("{0:C}", Item.Itebis)</td>
+                <td class="success">@String.Format("{0:C}", Item.Total)</td>
+            </tr>
+
+            ViewBag.total = Math.Round(subtotal,2);
+
+        }
+    </tbody>
+</table>
+
+@{var total = ViewBag.total; }
+<div class="col-lg-offset-10">
+    <h3>Total en ventas</h3>
+    <b>$ @total</b>
+</div>

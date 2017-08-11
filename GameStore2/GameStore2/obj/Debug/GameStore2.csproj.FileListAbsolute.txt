@@ -1,0 +1,236 @@
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\ApplicationInsights.config
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\csc.exe
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\csc.exe.config
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\csc.rsp
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\csi.exe
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\csi.rsp
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\System.AppContext.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\System.IO.FileSystem.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\vbc.exe
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\vbc.exe.config
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\vbc.rsp
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\VBCSCompiler.exe
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\GameStore2.dll.config
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\GameStore2.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\GameStore2.pdb
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Antlr3.Runtime.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\EntityFramework.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\EntityFramework.SqlServer.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.Web.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.ApplicationInsights.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Newtonsoft.Json.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Owin.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.Helpers.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.Mvc.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.Optimization.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.Razor.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.WebPages.Deployment.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.WebPages.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.WebPages.Razor.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\WebGrease.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.Helpers.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.Mvc.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.Optimization.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.Razor.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.WebPages.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.WebPages.Deployment.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\System.Web.WebPages.Razor.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Antlr3.Runtime.pdb
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Newtonsoft.Json.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\EntityFramework.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\EntityFramework.SqlServer.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.ApplicationInsights.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\Microsoft.AI.Web.xml
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\System.Web.Helpers.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\System.Web.Mvc.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\System.Web.Optimization.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\System.Web.Razor.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\System.Web.WebPages.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\EntityFramework.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.Owin.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\obj\Debug\GameStore2.csprojResolveAssemblyReference.cache
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\obj\Debug\GameStore2.dll
+c:\users\jireht\documents\visual studio 2017\Projects\GameStore2\GameStore2\obj\Debug\GameStore2.pdb
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\ApplicationInsights.config
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\csc.exe
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\csc.exe.config
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\csc.rsp
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\csi.exe
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\csi.rsp
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\System.AppContext.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\System.Collections.Immutable.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\System.IO.FileSystem.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\vbc.exe
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\vbc.exe.config
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\vbc.rsp
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\VBCSCompiler.exe
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\roslyn\VBCSCompiler.exe.config
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\GameStore2.dll.config
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\GameStore2.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\GameStore2.pdb
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Antlr3.Runtime.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\EntityFramework.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\EntityFramework.SqlServer.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.Web.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.WindowsServer.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.ApplicationInsights.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Google.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Web.Infrastructure.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Newtonsoft.Json.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Owin.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.Helpers.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.Mvc.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.Optimization.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.Razor.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.WebPages.Deployment.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.WebPages.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.WebPages.Razor.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\WebGrease.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.Helpers.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.Mvc.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.Optimization.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.Razor.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.WebPages.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.WebPages.Deployment.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\System.Web.WebPages.Razor.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Antlr3.Runtime.pdb
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Newtonsoft.Json.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\EntityFramework.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\EntityFramework.SqlServer.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Google.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.ApplicationInsights.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.WindowsServer.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Microsoft.AI.Web.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\System.Web.Helpers.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\System.Web.Mvc.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\System.Web.Optimization.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\System.Web.Razor.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\System.Web.WebPages.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\EntityFramework.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.Owin.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\obj\Debug\GameStore2.csprojResolveAssemblyReference.cache
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\obj\Debug\GameStore2.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\obj\Debug\GameStore2.pdb
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\Rotativa.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\BouncyCastle.Crypto.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\MailKit.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\MimeKit.dll
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\MailKit.xml
+D:\Luis Felipe\Desktop\ITLA\YI\GameStore2\GameStore2\bin\MimeKit.xml

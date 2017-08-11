@@ -1,0 +1,40 @@
+﻿@model ViewModelListaVentas_Ventas
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Factura</h2>
+@if (Model != null)
+{
+
+    @Model.viewModelVenta.DiaVenta
+
+    @*//Aqui vas a poner todo lo de detalle de factura*@
+
+    <div>
+        <table>
+            <tr>
+                <th>Peoducto</th>
+                <th>Cantidad</th>
+                <th>Precio</th>
+            </tr>
+            <tbody>
+                @foreach (var item in Model.viewModelListaVenta)
+                {
+                    <tr>
+                        <td>@item.Producto</td>
+                        <td>@item.Cantidad</td>
+                        <td>@item.Total</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        @Model.viewModelVenta.Subtotal
+        @Model.viewModelVenta.Itebis
+        @Model.viewModelVenta.Total
+    </div>
+
+
+}
